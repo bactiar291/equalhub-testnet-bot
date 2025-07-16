@@ -1,0 +1,25 @@
+{
+  "name": "equalhub-add-liquidity-bot",
+  "version": "1.0.0",
+  "description": "Auto add liquidity to EqualHub Testnet pools (USDC, USDT, HKDA, HKDB)",
+  "main": "run.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "prompts": "^2.4.2"
+  },
+  "keywords": [
+    "ethers",
+    "liquidity",
+    "equalhub",
+    "defi",
+    "testnet"
+  ],
+  "author": "bactiar291",
+  "license": "MIT"
+}
