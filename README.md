@@ -1,2 +1,2 @@
 # equalhub-testnet-bot
-ready guys ? only adds liquidity, not swap
+ready guys ? only add liquidity, not swap
